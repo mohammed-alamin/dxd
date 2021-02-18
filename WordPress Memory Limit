@@ -1,14 +1,5 @@
+WordPress Memory Limit Upgrade.
 
-
-
-
-
-How to increase file upload size - memory limit - execution time in WordPress?
-37,373 views
-
-GrowBig
-423K subscribers
-Published on 5 Jul 2018
 1. php.ini codes
 ===============
 upload_max_filesize = 256M
